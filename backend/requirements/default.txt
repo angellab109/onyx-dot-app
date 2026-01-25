@@ -2,7 +2,7 @@
 #    uv export --no-emit-project --no-default-groups --no-hashes --extra backend -o backend/requirements/default.txt
 aioboto3==15.1.0
     # via onyx
-aiobotocore==2.24.0
+aiobotocore==3.1.0
     # via aioboto3
 aiofiles==25.1.0
     # via
