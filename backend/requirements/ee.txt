@@ -200,7 +200,7 @@ markupsafe==3.0.3
     # via jinja2
 monotonic==1.6
     # via posthog
-multidict==6.7.0
+multidict==6.7.1
     # via
     #   aiobotocore
     #   aiohttp

@@ -590,7 +590,7 @@ msgpack==1.1.2
     # via distributed
 msoffcrypto-tool==5.4.2
     # via onyx
-multidict==6.7.0
+multidict==6.7.1
     # via
     #   aiobotocore
     #   aiohttp

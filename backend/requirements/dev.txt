@@ -275,7 +275,7 @@ matplotlib-inline==0.2.1
     # via
     #   ipykernel
     #   ipython
-multidict==6.7.0
+multidict==6.7.1
     # via
     #   aiobotocore
     #   aiohttp
